@@ -19,7 +19,7 @@ def getGeoLocation(inputString):
 
 
 if __name__ == "__main__":
-    print(getGeoLocation("Eunápoilis, Bahia"))
+    print(getGeoLocation("Eunápolis, Bahia"))
     print(getGeoLocation("Tokyo, Japan"))
     print(getGeoLocation("Sao Paulo, Sao Paulo"))
     print(getGeoLocation("Tacos, Jakarta, Indonesia"))
